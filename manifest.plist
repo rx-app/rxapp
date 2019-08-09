@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://rxportal-uat.ppts.xueda.com/rxapp/rx.app/ipa/rx.ipa</string>
+					<string>https://rxportal-uat.ppts.xueda.com/rxapp/rx.app/ios/rx.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://rxportal-uat.ppts.xueda.com/rxapp/rx.app/ipa/img/rx-57.png</string>
+					<string>https://rxportal-uat.ppts.xueda.com/rxapp/rx.app/ios/img/rx-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://rxportal-uat.ppts.xueda.com/rxapp/rx.app/ipa/img/rx-512.png</string>
+					<string>https://rxportal-uat.ppts.xueda.com/rxapp/rx.app/ios/img/rx-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
